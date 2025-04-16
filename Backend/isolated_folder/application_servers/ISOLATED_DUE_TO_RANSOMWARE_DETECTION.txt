@@ -1,0 +1,5 @@
+This folder was isolated at Wed Apr 16 01:22:35 2025 due to ransomware-like activity.
+Original location: C:\Users\Lenovo\Desktop\QD_Backend Process\monitored\data_center\application_servers
+Files were moved to isolation directory and set to read-only mode.
+Attack severity score: 4/10
+Key rotation is being applied as an additional security measure.
